@@ -1,0 +1,10 @@
+civic.db
+__pycache__/
+yolo-env/
+node_modules/
+dist/
+.env
+.output/
+.tanstack/
+.wrangler/
+*.log
